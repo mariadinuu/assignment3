@@ -1,8 +1,8 @@
 someNumber = 10
 
 if(someNumber <= 0):
-    print("Over zerro")
+    print("Over 0")
 elif(someNumber < 0):
-    print("Bellow zerro")
+    print("Bellow 0")
 else:
-    print("zerro")
+    print("0")
